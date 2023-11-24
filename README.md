@@ -1,8 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>📜 Sobre </h2>
-<p>Projeto desenvolvido em estudo de logica de programação , seu objetivo é ser um jogo onde a pessoa deve adivinhar o numero secreto. 
-  Exercicio realizado em aula do curso JavaScript e HTML: Desenvolva um jogo e pratique lógica da programação.</p>
+<p>Projeto desenvolvido em estudo, exercicio realizado em aula do curso JavaScript e HTML: Desenvolva um jogo e pratique lógica da programação.</p>
 
 ## 🚀 Tecnologias
 <div>
